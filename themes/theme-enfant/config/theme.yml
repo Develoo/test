@@ -1,0 +1,6 @@
+parent: classic # Nom du thème parent
+name: theme-enfant # Identifiant de votre thème enfant, identique au dossier
+display-name: Mon super thème # Description du thème
+version: 1.0.0 # Version en cas de mise à jour
+assets:
+  use_parent_assets: true
